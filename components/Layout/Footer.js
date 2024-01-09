@@ -28,7 +28,7 @@ const Footer = () => {
           <p className="text-black-600 mb-4 font-medium text-lg">Engage</p>
           <ul className="text-black-500">
             <li className="my-2 hover:text-orange-500 cursor-pointer transition-all">
-              <Link href="https://twitter.com/EGS420">
+              <Link href="https://twitter.com/AvaxEGS">
                 <a>
                   Twitter
                 </a>

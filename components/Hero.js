@@ -9,7 +9,7 @@ const Hero = ({
   listUser = [
     {
       name: "Holders",
-      number: "432",
+      number: "440",
       icon: "/assets/Icon/heroicons_sm-user.svg",
     },
     {

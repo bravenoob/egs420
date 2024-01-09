@@ -9,7 +9,7 @@ const defaultMeta = {
   description:
     'Emin Gün Sirer ($EGS) ',
   // change base url of your web (without '/' at the end)
-  url: 'https://www.egs420.fun/',
+  url: 'https://www.avaxegs.com/',
   type: 'website',
   robots: 'follow, index',
   // change with url of your image (recommended dimension = 1.91:1)
