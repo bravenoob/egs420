@@ -40,7 +40,7 @@ const Hero = ({
                 In the name of <strong>Emin</strong> the Avalanche Blockchain Founder.
               </h1>
               <p className="text-black-500 mt-4 mb-6">
-                Our mission is to find Emin's favorite animal. Show your support and have $EGS.
+                The premium community-driven Memecoin on #AVAX. Show your support and have $EGS.
               </p>
               <ButtonPrimary>Buy $EGS</ButtonPrimary>
             </div>
